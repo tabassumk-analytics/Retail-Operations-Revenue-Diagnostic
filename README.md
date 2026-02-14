@@ -6,8 +6,8 @@ This diagnostic framework was engineered to audit **$15.5M in aggregate revenue*
 ### **Business Problem**
 In scaled retail environments, logistics latency often results in high-churn "Profit Leakage" that remains undetected in top-line reporting. The challenge was to mathematically validate the impact of shipping delays on customer sentiment and establish a data-driven threshold for revenue protection.
 
-## **Interactive Dashboard (Tableau Public]**
-https://public.tableau.com/app/profile/tabassum.k/viz/StrategicGrowthHubMarketDensityandOperationalRiskAssessment/StrategicRetailOperationsProfitLeakageSLADiagnostic#1
+## **Interactive Dashboard (Tableau Public]** 
+https://tinyurl.com/2r7v9xrr
 
 ### **Methodology**
 * **Data Engineering:** Developed a multi-table architecture in PostgreSQL utilizing **Common Table Expressions (CTEs)** to ensure logical transparency and data integrity during high-volume joins.
